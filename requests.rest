@@ -2,11 +2,9 @@
 GET http://localhost:8080/contacts
 
 ### Obtener un contacto individual por ID (Local)
-### Reemplaza '650c1f2e8f1b2c3d4e5f6a7b' con el _id real de tu base de datos
 GET http://localhost:8080/contacts/6aa043e47801582ca37ef105
 
 ### Obtener todos los contactos (Render)
-### Reemplaza 'tu-app.onrender.com' por tu URL de Render cuando la tengas
 GET https://cse-341-project1-xa4s.onrender.com/contacts
 
 ### Obtener un contacto por ID (Render)
